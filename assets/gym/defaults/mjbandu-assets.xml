@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets>
+
+ <asset>
+
+  <!-- convexified Bandu meshes, graspable by HSR -->
+
+  <!-- barrell -->
+  <mesh file="mjbandu/barrell_01.stl" scale=".01 .01 .01" name="barrell_01_s"/>
+  <mesh file="mjbandu/barrell_01.stl" scale=".02 .02 .02" name="barrell_01_m"/>
+  <mesh file="mjbandu/barrell_01.stl" scale=".04 .04 .04" name="barrell_01_l"/>
+
+  <!-- bridge M -->
+  <mesh file="mjbandu/bridge_01.stl" scale=".015 .02 .02" name="bridge_01_m"/>
+  <mesh file="mjbandu/bridge_02.stl" scale=".015 .02 .02" name="bridge_02_m"/>
+  <mesh file="mjbandu/bridge_03.stl" scale=".015 .02 .02" name="bridge_03_m"/>
+  <mesh file="mjbandu/bridge_04.stl" scale=".015 .02 .02" name="bridge_04_m"/>
+  <mesh file="mjbandu/bridge_05.stl" scale=".015 .02 .02" name="bridge_05_m"/>
+  <mesh file="mjbandu/bridge_06.stl" scale=".015 .02 .02" name="bridge_06_m"/>
+  <mesh file="mjbandu/bridge_07.stl" scale=".015 .02 .02" name="bridge_07_m"/>
+  <mesh file="mjbandu/bridge_08.stl" scale=".015 .02 .02" name="bridge_08_m"/>
+
+  <!-- cone -->
+  <mesh file="mjbandu/cone_01.stl" scale=".025 .025 .035" name="cone_01_m"/>
+
+  <!-- chalice M -->
+  <mesh file="mjbandu/challisce_01.stl" scale=".025 .025 .025" name="chalice_01_m"/>
+  <mesh file="mjbandu/challisce_02.stl" scale=".025 .025 .025" name="chalice_02_m"/>
+  <mesh file="mjbandu/challisce_03.stl" scale=".025 .025 .025" name="chalice_03_m"/>
+  <mesh file="mjbandu/challisce_04.stl" scale=".025 .025 .025" name="chalice_04_m"/>
+  <mesh file="mjbandu/challisce_05.stl" scale=".025 .025 .025" name="chalice_05_m"/>
+  <mesh file="mjbandu/challisce_06.stl" scale=".025 .025 .025" name="chalice_06_m"/>
+  <mesh file="mjbandu/challisce_07.stl" scale=".025 .025 .025" name="chalice_07_m"/>
+  <mesh file="mjbandu/challisce_08.stl" scale=".025 .025 .025" name="chalice_08_m"/>
+  <mesh file="mjbandu/challisce_09.stl" scale=".025 .025 .025" name="chalice_09_m"/>
+  <mesh file="mjbandu/challisce_10.stl" scale=".025 .025 .025" name="chalice_10_m"/>
+  <mesh file="mjbandu/challisce_11.stl" scale=".025 .025 .025" name="chalice_11_m"/>
+  <mesh file="mjbandu/challisce_12.stl" scale=".025 .025 .025" name="chalice_12_m"/>
+  <mesh file="mjbandu/challisce_13.stl" scale=".025 .025 .025" name="chalice_13_m"/>
+  <mesh file="mjbandu/challisce_14.stl" scale=".025 .025 .025" name="chalice_14_m"/>
+  <mesh file="mjbandu/challisce_15.stl" scale=".025 .025 .025" name="chalice_15_m"/>
+  <mesh file="mjbandu/challisce_16.stl" scale=".025 .025 .025" name="chalice_16_m"/>
+  <mesh file="mjbandu/challisce_17.stl" scale=".025 .025 .025" name="chalice_17_m"/>
+  <mesh file="mjbandu/challisce_18.stl" scale=".025 .025 .025" name="chalice_18_m"/>
+  <mesh file="mjbandu/challisce_19.stl" scale=".025 .025 .025" name="chalice_19_m"/>
+  <mesh file="mjbandu/challisce_20.stl" scale=".025 .025 .025" name="chalice_20_m"/>
+  <mesh file="mjbandu/challisce_21.stl" scale=".025 .025 .025" name="chalice_21_m"/>
+
+  <!-- chalice L -->
+  <mesh file="mjbandu/challisce_01.stl" scale=".035 .035 .035" name="chalice_01_l"/>
+  <mesh file="mjbandu/challisce_02.stl" scale=".035 .035 .035" name="chalice_02_l"/>
+  <mesh file="mjbandu/challisce_03.stl" scale=".035 .035 .035" name="chalice_03_l"/>
+  <mesh file="mjbandu/challisce_04.stl" scale=".035 .035 .035" name="chalice_04_l"/>
+  <mesh file="mjbandu/challisce_05.stl" scale=".035 .035 .035" name="chalice_05_l"/>
+  <mesh file="mjbandu/challisce_06.stl" scale=".035 .035 .035" name="chalice_06_l"/>
+  <mesh file="mjbandu/challisce_07.stl" scale=".035 .035 .035" name="chalice_07_l"/>
+  <mesh file="mjbandu/challisce_08.stl" scale=".035 .035 .035" name="chalice_08_l"/>
+  <mesh file="mjbandu/challisce_09.stl" scale=".035 .035 .035" name="chalice_09_l"/>
+  <mesh file="mjbandu/challisce_10.stl" scale=".035 .035 .035" name="chalice_10_l"/>
+  <mesh file="mjbandu/challisce_11.stl" scale=".035 .035 .035" name="chalice_11_l"/>
+  <mesh file="mjbandu/challisce_12.stl" scale=".035 .035 .035" name="chalice_12_l"/>
+  <mesh file="mjbandu/challisce_13.stl" scale=".035 .035 .035" name="chalice_13_l"/>
+  <mesh file="mjbandu/challisce_14.stl" scale=".035 .035 .035" name="chalice_14_l"/>
+  <mesh file="mjbandu/challisce_15.stl" scale=".035 .035 .035" name="chalice_15_l"/>
+  <mesh file="mjbandu/challisce_16.stl" scale=".035 .035 .035" name="chalice_16_l"/>
+  <mesh file="mjbandu/challisce_17.stl" scale=".035 .035 .035" name="chalice_17_l"/>
+  <mesh file="mjbandu/challisce_18.stl" scale=".035 .035 .035" name="chalice_18_l"/>
+  <mesh file="mjbandu/challisce_19.stl" scale=".035 .035 .035" name="chalice_19_l"/>
+  <mesh file="mjbandu/challisce_20.stl" scale=".035 .035 .035" name="chalice_20_l"/>
+  <mesh file="mjbandu/challisce_21.stl" scale=".035 .035 .035" name="chalice_21_l"/>
+
+  <!-- cube -->
+  <mesh file="mjbandu/cube_01.stl" scale=".01 .01 .01" name="cube_01_s"/>
+  <mesh file="mjbandu/cube_01.stl" scale=".02 .02 .02" name="cube_01_m"/>
+  <mesh file="mjbandu/cube_01.stl" scale=".07 .025 .02" name="bandu_foundation"/>
+  <mesh file="mjbandu/cube_01.stl" scale=".25 .25 .15" name="bandu_table"/>
+
+  <!-- cylinder-long -->
+  <mesh file="mjbandu/cylinder-long_01.stl" scale=".018 .018 .016" name="cylinder_01_m"/>
+
+  <!-- diamond-hex -->
+  <mesh file="mjbandu/diamond-hex_01.stl" scale=".025 .025 .025" name="diamond_01_m"/>
+
+  <!-- foundation -->
+  <mesh file="mjbandu/foundation_01.stl" scale=".01 .01 .01" name="foundation_01_s"/>
+  <mesh file="mjbandu/foundation_01.stl" scale=".02 .02 .02" name="foundation_01_m"/>
+  <mesh file="mjbandu/foundation_01.stl" scale=".025 .025 .025" name="foundation_01_l"/>
+
+  <!-- lemon-wedge -->
+  <!-- <mesh file="mjbandu/lemon-wedge_01.stl" scale=".02 .02 .02"/> -->
+
+  <!-- nut -->
+  <mesh file="mjbandu/nut_01.stl" scale=".025 .025 .025" name="nut_01_m"/>
+  <mesh file="mjbandu/nut_02.stl" scale=".025 .025 .025" name="nut_02_m"/>
+  <mesh file="mjbandu/nut_03.stl" scale=".025 .025 .025" name="nut_03_m"/>
+  <mesh file="mjbandu/nut_04.stl" scale=".025 .025 .025" name="nut_04_m"/>
+  <mesh file="mjbandu/nut_05.stl" scale=".025 .025 .025" name="nut_05_m"/>
+  <mesh file="mjbandu/nut_06.stl" scale=".025 .025 .025" name="nut_06_m"/>
+  <mesh file="mjbandu/nut_07.stl" scale=".025 .025 .025" name="nut_07_m"/>
+  <mesh file="mjbandu/nut_08.stl" scale=".025 .025 .025" name="nut_08_m"/>
+  <mesh file="mjbandu/nut_09.stl" scale=".025 .025 .025" name="nut_09_m"/>
+  <mesh file="mjbandu/nut_10.stl" scale=".025 .025 .025" name="nut_10_m"/>
+
+ </asset>
+
+</assets>

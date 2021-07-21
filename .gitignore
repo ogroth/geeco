@@ -1,0 +1,21 @@
+# Python
+*.pyc
+
+# Editors
+.vscode/
+*.swp
+
+# Data
+/data
+
+# Models
+/models
+
+# Logs
+/logs
+
+# Scratch
+/tmp
+
+# MuJoCo
+MUJOCO_LOG.TXT
